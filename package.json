@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tomaszcividino/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.26.14"
+  },
+  "dependencies": {
+    "html-validate": "^4.9.0"
   }
 }
